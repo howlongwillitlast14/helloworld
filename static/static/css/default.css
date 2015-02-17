@@ -1,0 +1,29 @@
+
+body {
+  text-align: center;
+}
+#page {
+  width : 960px;
+  text-align: left;
+  margin: 10px auto 20px auto;
+  background-color: white;
+}
+#sidebar {
+  float :left;
+  width: 200px;
+  border : 1px solid blue;
+}
+#content{
+  float :left;
+  width: 640px;
+  border: 1px solid red;
+  padding: 10px;
+}
+.success{
+  background-color: #008800;
+  border-color: #005500;
+}
+.deleted{
+  background-color: #880000;
+  border-color: #550000;
+}
